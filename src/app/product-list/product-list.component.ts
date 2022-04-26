@@ -14,7 +14,7 @@ export class ProductListComponent {
     window.alert('The product has been shared!');
   }
 
-  onNoity(){
+  onNotify(){
     window.alert('You will be notified when this product goes on sale')
   }
 }
